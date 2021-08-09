@@ -1,0 +1,14 @@
+{
+  "name": "simple-discord-bot",
+  "version": "1.0.0",
+  "description": "Une base simple d'un bot discord",
+  "main": "index.js",
+  "author": "Bloak#0252",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "12.5.3"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
